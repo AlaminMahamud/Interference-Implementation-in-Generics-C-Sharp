@@ -1,0 +1,8 @@
+// A list that does not implement IPhoneList
+
+using n1;
+
+class EmailFriend
+{
+	// ..	
+}
